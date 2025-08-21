@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there owo
+
+![a](https://cdn.7tv.app/emote/01F9XVK2HR000FV32RRN65YY90/4x.avif)
 
 <!--
 **DrMadThrust/DrMadThrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
